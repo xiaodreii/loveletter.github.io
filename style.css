@@ -1,6 +1,6 @@
 body{
     background-color: lightcoral;
-    background-image: url(/images/waw.gif);
+    background-image: url(waw.gif);
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
@@ -52,3 +52,4 @@ button:hover{
 h1{
     text-align: center;
 }
+
