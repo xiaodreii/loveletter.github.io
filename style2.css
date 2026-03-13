@@ -5,7 +5,7 @@ img{
 }
 body{
     background-color: lightcoral;
-    background-image: url(/images/waw.gif);
+    background-image: url(waw.gif);
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
@@ -39,3 +39,4 @@ h1{
     text-align: center;
     color: rgb(15, 1, 1);
 }
+
